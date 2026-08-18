@@ -12,7 +12,7 @@ Currently, it just works nicely and does the work.
 
 ## Future plans 
 
-1. Better UI with language options.
+1. Better UI with language options. (Now, external language files to reduce the code length)
 2. Optimise the code. (I don't know how to optimise.)
 3. Add more features, making this a data merger among them. Maybe a super app kind of thing for all of us.
  
